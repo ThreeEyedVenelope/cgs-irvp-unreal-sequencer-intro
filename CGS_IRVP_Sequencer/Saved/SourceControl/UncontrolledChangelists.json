@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Cinematic/NewLevelSequence.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/MAP_Cinematics.umap",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/Animations/RootMotion/Attacks/Boss_Attack_Running_WithAOEBlow_RM.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/Animations/RootMotion/Boss_BattleEntrance_RM.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/IKR_Mannequin_UE4_WithWeapon.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/Viking/Mesh/IKR_Viking.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/RET_Manneguin_UE4_WithWeapoon.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/NewFunctionLibrary.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/SkeletalMeshes/Character/AlienDoctor/IKR_AlienDoctor.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/RET_Manneguin_UE4_WithWeapoon_To_AlienDoctor.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/RET_Manneguin_UE4_WithWeapoon_To_Viking.uasset"
+			]
+		}
+	]
+}
