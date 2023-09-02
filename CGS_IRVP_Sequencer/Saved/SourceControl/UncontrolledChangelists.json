@@ -11,11 +11,16 @@
 				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/Animations/RootMotion/Boss_BattleEntrance_RM.uasset",
 				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/IKR_Mannequin_UE4_WithWeapon.uasset",
 				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/Viking/Mesh/IKR_Viking.uasset",
-				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/RET_Manneguin_UE4_WithWeapoon.uasset",
-				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/NewFunctionLibrary.uasset",
 				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/SkeletalMeshes/Character/AlienDoctor/IKR_AlienDoctor.uasset",
 				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/RET_Manneguin_UE4_WithWeapoon_To_AlienDoctor.uasset",
-				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/RET_Manneguin_UE4_WithWeapoon_To_Viking.uasset"
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/RET_Manneguin_UE4_WithWeapoon_To_Viking.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-sequencer-intro/CGS_IRVP_Sequencer/Content/Characters/BossyEnemy/SkeletalMesh/PA_TPose.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-sequencer-intro/CGS_IRVP_Sequencer/Content/Characters/BossyEnemy/SkeletalMesh/RET_Manneguin_UE4_WithWeapoon_To_AlienDoctor.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-sequencer-intro/CGS_IRVP_Sequencer/Content/MAP_Cinematics.umap",
+				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-sequencer-intro/CGS_IRVP_Sequencer/Content/SkeletalMeshes/Character/AlienDoctor/IKR_AlienDoctor.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-sequencer-intro/CGS_IRVP_Sequencer/Content/Characters/BossyEnemy/SkeletalMesh/RET_Mannequin_UE4_WithWeapon_To_Howitzer.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/Characters/BossyEnemy/SkeletalMesh/RET_Manneguin_UE4_WithWeapoon.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-unreal-sequencer-intro/Content/NewFunctionLibrary.uasset"
 			]
 		}
 	]
